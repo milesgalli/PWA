@@ -19,4 +19,4 @@ Offline entries should be added to tracker.
 
 ## Final Thoughts 
 
-This topic was covered so loosely that it difficult to understand the key components that make PWAs. Although this assignment was relativly easy, i need to spend more time understanding the web manifest and service workers. 
+This topic was covered loosely explained that it  was difficult to understand the key components. Although this assignment was relativly easy, i need to spend more time understanding the web manifest and service workers. 
